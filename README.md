@@ -55,7 +55,7 @@ All testing activities were performed in authorized and controlled lab environme
 
 ---
 
-## ⚖ Ethical Statement
+## Ethical Statement
 
 All activities documented in this repository were conducted in controlled lab environments or intentionally vulnerable systems for educational purposes only.
 
